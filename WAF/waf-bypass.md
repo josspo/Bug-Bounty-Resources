@@ -1,1 +1,1 @@
-
+- https://www.yeswehack.com/learn-bug-bounty/web-application-firewall-bypass

@@ -1,0 +1,1 @@
+- https://app.hackinghub.io/course/nahamsec-bug-bounty-course/purchase

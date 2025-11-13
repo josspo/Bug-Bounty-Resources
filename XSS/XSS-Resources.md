@@ -1,13 +1,13 @@
 # XSS Resources
 
-## <img src="assets/icons/clapperboard.png" width="24"> Video
+## <img src="/assets/icons/clapperboard.png" width="24"> Video
 
 - [https://www.youtube.com/watch?v=0kfQsRwr_Bc](https://www.youtube.com/watch?v=0kfQsRwr_Bc)
 - [https://www.youtube.com/watch?v=XzjONZ5lKcw](https://www.youtube.com/watch?v=XzjONZ5lKcw)
 - [https://www.youtube.com/watch?v=ifTsiU45-7A](https://www.youtube.com/watch?v=ifTsiU45-7A)
 - [https://www.youtube.com/watch?v=KHwVjzWei1c](https://www.youtube.com/watch?v=KHwVjzWei1c)
 
-## <img src="assets/icons/books.png" width="24"> Reading 
+## <img src="/assets/icons/books.png" width="24"> Reading 
 
 - [https://www.hackerone.com/blog/how-find-xss](https://www.hackerone.com/blog/how-find-xss)
 - [https://owasp.org/www-community/attacks/xss](https://owasp.org/www-community/attacks/xss)
@@ -18,13 +18,13 @@
 - [https://portswigger.net/web-security/cross-site-scripting#what-is-cross-site-scripting-xss](https://portswigger.net/web-security/cross-site-scripting#what-is-cross-site-scripting-xss)
 - [https://dojo-yeswehack.com/learn/vulnerabilities/xss](https://dojo-yeswehack.com/learn/vulnerabilities/xss)
 
-## <img src="assets/icons/bug-report.png" width="24"> Reports 
+## <img src="/assets/icons/bug-report.png" width="24"> Reports 
 
 - [https://hackerone.com/reports/2417864](https://hackerone.com/reports/2417864)
 - [https://medium.com/@jonathanbouman/persistent-xss-at-ah-nl-198fe7b4c781](https://medium.com/@jonathanbouman/persistent-xss-at-ah-nl-198fe7b4c781)
 - [https://medium.com/@renwa/self-xss-csrf-to-stored-xss-54f9f423a7f1](https://medium.com/@renwa/self-xss-csrf-to-stored-xss-54f9f423a7f1)
 
-## <img src="assets/icons/xss.png" width="24"> Labs
+## <img src="/assets/icons/xss.png" width="24"> Labs
 
 - [https://portswigger.net/web-security/all-labs#cross-site-scripting](https://portswigger.net/web-security/all-labs#cross-site-scripting)
 - [https://dojo-yeswehack.com/challenge/play/5d163e93-2374-48b7-9c60-5cada6f89a13](https://dojo-yeswehack.com/challenge/play/5d163e93-2374-48b7-9c60-5cada6f89a13)

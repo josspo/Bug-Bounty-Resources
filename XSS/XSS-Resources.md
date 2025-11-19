@@ -33,3 +33,4 @@
 - [https://dojo-yeswehack.com/challenge/play/7809a39b-5c92-45bc-97fd-7c0de190cafa](https://dojo-yeswehack.com/challenge/play/7809a39b-5c92-45bc-97fd-7c0de190cafa)
 - [https://dojo-yeswehack.com/challenge/play/7013722d-273d-4660-ba2a-9af66fccabd0](https://dojo-yeswehack.com/challenge/play/7013722d-273d-4660-ba2a-9af66fccabd0)
 - [https://dojo-yeswehack.com/challenge/play/c760cd91-8c58-4de2-a50f-78bc52e6b5bc](https://dojo-yeswehack.com/challenge/play/c760cd91-8c58-4de2-a50f-78bc52e6b5bc)
+- [https://xss-game.appspot.com](https://xss-game.appspot.com)

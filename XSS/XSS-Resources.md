@@ -17,6 +17,7 @@
 - [https://owasp.org/www-project-web-security-testing-guide/v41/4-Web_Application_Security_Testing/07-Input_Validation_Testing/02-Testing_for_Stored_Cross_Site_Scripting.html](https://owasp.org/www-project-web-security-testing-guide/v41/4-Web_Application_Security_Testing/07-Input_Validation_Testing/02-Testing_for_Stored_Cross_Site_Scripting.html)
 - [https://portswigger.net/web-security/cross-site-scripting#what-is-cross-site-scripting-xss](https://portswigger.net/web-security/cross-site-scripting#what-is-cross-site-scripting-xss)
 - [https://dojo-yeswehack.com/learn/vulnerabilities/xss](https://dojo-yeswehack.com/learn/vulnerabilities/xss)
+- [https://medium.com/illumination/understanding-cross-site-scripting-xss-through-javascript-242d4a9a6576](https://medium.com/illumination/understanding-cross-site-scripting-xss-through-javascript-242d4a9a6576)
 
 ## <img src="/assets/icons/bug-report.png" width="24"> Reports 
 

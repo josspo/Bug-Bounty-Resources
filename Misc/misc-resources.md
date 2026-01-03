@@ -4,6 +4,7 @@
 
 - https://choose.yeswehack.io/the-yeswehack-bug-bounty-report-2025?hsCtaAttrib=184889689930
 - https://www.bugcrowd.com/blog/ask-a-hacker-top-vulnerabilities-to-watch-out-for
+- https://www.bugbountyhunter.com/methodology/zseanos-methodology.pdf
 
 ## Video 
 

@@ -7,6 +7,7 @@
 - [https://www.bugbountyhunter.com/methodology/zseanos-methodology.pdf](https://www.bugbountyhunter.com/methodology/zseanos-methodology.pdf)
 - [https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/CORS)
 - [https://www.stackhawk.com/blog/what-is-cors/](https://www.stackhawk.com/blog/what-is-cors/)
+- [https://portswigger.net/web-security/cors](https://portswigger.net/web-security/cors)
 
 ## Video 
 

@@ -14,3 +14,4 @@
 - [https://www.youtube.com/watch?v=BFJ_5xNHc80](https://www.youtube.com/watch?v=BFJ_5xNHc80)
 - [https://www.youtube.com/watch?v=V5T3e5L0t0Y](https://www.youtube.com/watch?v=V5T3e5L0t0Y)
 - [https://www.bugcrowd.com/webinar/?commid=655092](https://www.bugcrowd.com/webinar/?commid=655092)
+- [https://www.wiz.io/bug-bounty-masterclass](https://www.wiz.io/bug-bounty-masterclass)
